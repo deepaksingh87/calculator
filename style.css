@@ -1,0 +1,44 @@
+body{
+    background-color:purple;
+    font-family:Roboto;
+    
+}
+.container{
+    background-color: rgb(235, 232, 232);
+    height: 524px;
+    width: 325px;
+    position: relative;
+    
+    margin:100px auto;
+}
+h1{
+    background-color: #1F030C;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+#calculator{
+    padding-left: 20px;
+    font-size: 20px;
+}
+input{
+    padding: 10px;
+    width: 70%;
+}
+#servicequal{
+    width: 70%;
+    padding: 12px;
+}
+#calculate{
+    position: relative;
+    top:20px;
+    left: 40px;
+    background-color: hotpink;
+    padding: 15px;
+}
+#totaltip{
+    font-size: 30px;
+    margin-top: 30px;
+    text-align: center;
+     position: relative;
+}
