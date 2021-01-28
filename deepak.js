@@ -23,7 +23,7 @@ function calculateTip() {
     total = Math.round(total * 100) / 100;
     //next line allows us to always have two digits after decimal point
     total = total.toFixed(2);
-    //Display the tip
+    //Display the tip]
     document.getElementById("totalTip").style.display = "block";
     document.getElementById("tip").innerHTML = total;
   
